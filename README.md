@@ -95,7 +95,7 @@ def feature_SURF(folder_name, csv_dest):
 
 - **Example of Car images**
 <p float="centre">
-  <img src="Images/Car.jpg" width="80%" />
+  <img src="Images/Car.png" width="80%" />
 </p>
 
 

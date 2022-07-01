@@ -83,18 +83,18 @@ def feature_SURF(folder_name, csv_dest):
             csv_data=out.to_csv(csv_dest, mode='a', header=False,index=False)
 ```
 - **Example of Dents on Car images**
-<p float="left">
+<p float="centre">
   <img src="Images/Dents.png" width="80%" />
 </p>
 
 
 - **Example of Scratches on Car images**
-<p float="left">
+<p float="centre">
   <img src="Images/Scratches.png" width="80%" />
 </p>
 
 - **Example of Car images**
-<p float="left">
+<p float="centre">
   <img src="Images/Car.jpg" width="80%" />
 </p>
 
